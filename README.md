@@ -1,7 +1,3 @@
-Aqui está a tradução para inglês:  
-
----
-
 # Requirements Updater
 
 A collection of scripts to automatically update library versions in a project's `requirements.txt` file.
